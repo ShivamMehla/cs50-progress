@@ -1,0 +1,16 @@
+sort1 uses: Bubble sort
+
+How do you know?: By comparing the sorted list with other lists, sort1 was faster than
+                  sort3 only in sorted list.That concludes that it was behaving
+                  differently for already sorted list. O(n)
+
+sort2 uses: Merge sort
+
+How do you know?: By comparing all 3 lists, it was observed that sort2 was always
+                  the fastest, indicating towards Merge sort.
+
+sort3 uses: Selection sort
+
+How do you know?: It was observed that sort3 was slower than sort1 in only sorted list
+                  , not reversed or random list. In reversed and random, sort3 was
+                  comparitively faster than sort1, incdicating towards selection sort.
