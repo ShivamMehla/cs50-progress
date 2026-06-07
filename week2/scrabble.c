@@ -40,7 +40,7 @@ int compute_score(string word)
         if (islower(word[i]))
         {
             int index = word[i] - 'a';
-            sum += POINTS[index];2
+            sum += POINTS[index];
         }
         else if (isupper(word[i]))
         {
