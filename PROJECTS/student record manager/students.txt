@@ -1,0 +1,5 @@
+        ===== Student Record =====
+|S.No |Name                |Roll No.  |Marks|
+|1    |poonam              |21        |91   |
+|2    |krish               |22        |92   |
+|3    |priyanshu           |24        |94   |
